@@ -34,3 +34,9 @@ For Ratings Table:
 * Upper-casing all the alphabets present in the ISBN column.
 * Removal of duplicate entries from the table.
 
+#  Algorithms Implemented:-
+
+* Collaborative Filtering Recommendation
+
+Collaborative Filtering Recommendation System works by considering user ratings and finds cosine similarities in ratings by several users to recommend books. To implement this, we took only those books' data that have at least 50 ratings in all.
+
