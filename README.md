@@ -5,6 +5,9 @@ Recommender systems have become a part of daily life for users of Amazon and Net
 # Dataset link�
 https://drive.google.com/drive/u/0/folders/1LQZRVw0qnoAoSsIa3vgHMX2nD0oj1fel
 # Data Cleaning and Pre-Processing:-
+![image](https://user-images.githubusercontent.com/88799249/155766150-2821ace4-030c-4c2c-9dab-dd943ba4e23c.png)
+
+
 The dataset consists of three tables; Books, Users, and Ratings. Data from all three tables are cleaned and preprocessed separately as defined below briefly:
 
 For Books Table:
