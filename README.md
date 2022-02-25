@@ -56,3 +56,6 @@ Collaborative Filtering Recommendation System works by considering user ratings 
 7. Pickle
 8. HTML
 9. Heroku
+# Deployment:-
+
+![image](https://github.com/KasumiL5x/book-recommendation-system/blob/master/screenshots/hhgttg.gif?raw=true)
