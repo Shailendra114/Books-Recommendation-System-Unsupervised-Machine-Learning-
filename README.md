@@ -34,7 +34,9 @@ For Ratings Table:
 * Upper-casing all the alphabets present in the ISBN column.
 * Removal of duplicate entries from the table.
 
-#  Algorithms Implemented:-
+#  Algorithms Implemented:- 
+
+![image](https://user-images.githubusercontent.com/88799249/155765751-59d2d5ad-2476-4755-8dc9-d20b10daa6dc.png)
 
 * Collaborative Filtering Recommendation
 
