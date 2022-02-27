@@ -62,6 +62,9 @@ For Ratings Table:
 Collaborative Filtering Recommendation System works by considering user ratings and finds cosine similarities in ratings by several users to recommend books. To implement this, we took only those books' data that have at least 50 ratings in all.
 
 # Tools Used:
+
+![image](https://user-images.githubusercontent.com/88799249/155894943-6c80d776-5281-4cd3-a3b0-1f985608cf4b.png)
+
 1. Python
 2. Pandas
 3. Numpy
