@@ -31,6 +31,10 @@ For Books Table:
 
 For Users Table:
 
+
+ ![image](https://user-images.githubusercontent.com/88799249/155894836-9167ebea-4cec-43d7-ad92-689ee90227aa.png)
+
+
 * Check for null values in the table. The Age column has more than 1 lakh null values.
 * Check for unique values present in the Age column. There are many invalid ages present like 0 or 244.
 * By keeping the valid age range of readers as 10 to 80 replace null values and invalid ages in the Age column with the mean of valid ages.
