@@ -44,6 +44,9 @@ For Users Table:
 
 For Ratings Table:
 
+![image](https://user-images.githubusercontent.com/88799249/155894867-656a879c-9d55-46b5-9650-2d23097aadd7.png)
+
+
 * Check for null values in the table.
 * Check for Rating column and User-ID column to be an integer.
 * Removal of punctuation from ISBN column values and if that resulting ISBN is available in the book dataset only then considering else drop that entity.
