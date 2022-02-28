@@ -68,12 +68,13 @@ Collaborative Filtering Recommendation System works by considering user ratings 
 1. Python
 2. Pandas
 3. Numpy
-4. Matplotlib
-5. Sklearn
-6. Flask
-7. Pickle
-8. HTML
-9. Heroku
+4. Seaborn
+5. Matplotlib
+6. Sklearn
+7. Flask
+8. Pickle
+9. HTML
+10. Heroku
 # Deployment:-
 
 ![image](https://github.com/KasumiL5x/book-recommendation-system/blob/master/screenshots/hhgttg.gif?raw=true)
