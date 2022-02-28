@@ -68,8 +68,9 @@ Collaborative Filtering Recommendation System works by considering user ratings 
 1. Python
 2. Pandas
 3. Numpy
-4. Sklearn
-5. Flask
+4. Matplotlib
+5. Sklearn
+6. Flask
 7. Pickle
 8. HTML
 9. Heroku
