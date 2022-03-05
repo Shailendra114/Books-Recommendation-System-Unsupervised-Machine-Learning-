@@ -55,6 +55,7 @@ For Ratings Table:
 * Removal of duplicate entries from the table.
 
 #  Algorithms Implemented:- 
+The different algorithms that we used in this project are as follows-
 
  ![image](https://user-images.githubusercontent.com/88799249/156038176-6dd56841-4a97-426d-982a-bb1b53f316ef.png)
 
