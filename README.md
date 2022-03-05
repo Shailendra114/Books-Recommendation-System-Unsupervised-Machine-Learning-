@@ -73,6 +73,7 @@ The different tools that we have used in this project are as follows--
 2. Pandas
 3. Numpy
 4. Seaborn
+5. Plotly
 5. Matplotlib
 6. Sklearn
 7. Flask
