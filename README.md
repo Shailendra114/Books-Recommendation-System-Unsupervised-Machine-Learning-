@@ -94,7 +94,8 @@ The different tools that we have used in this project are as follows--
 *  Amongst the memory based approach, item-item CF performed better than user-user CF because of lower computation requirements .
 
 # CHALLENGES:-
-![image](https://user-images.githubusercontent.com/88799249/157095128-74d56a89-b800-4725-b704-a60a9a0f9410.png)
+ ![image](https://user-images.githubusercontent.com/88799249/157095932-7a9983ee-dd0e-41ee-a958-65f8b1bbca39.png)
+
 
 * Handling of sparsity was a major challenge as well since the user interactions were not present for the majority of the books.
 * Understanding the metric for evaluation was a challenge as well.
