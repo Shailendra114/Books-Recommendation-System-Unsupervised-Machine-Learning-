@@ -103,6 +103,8 @@ The different tools that we have used in this project are as follows--
 * Decision making on missing value imputations and outlier treatment was quite challenging as well.
 
 # FUTURE SCOPE:-
+![image](https://user-images.githubusercontent.com/88799249/157096691-83a727b5-981a-4f18-8443-96b250e11a20.png)
+
 * Given more information regarding the books dataset, namely features like Genre, Description etc., we could implement a content-filtering based recommendation system and compare the results with the existing collaborative-filtering based system.
 * We would like to explore various clustering approaches for clustering the users based on Age, Location etc., and then implement voting algorithms to recommend items to the user depending on the cluster into which it belongs.
 
