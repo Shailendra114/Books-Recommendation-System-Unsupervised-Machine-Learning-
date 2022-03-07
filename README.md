@@ -97,3 +97,16 @@ The different tools that we have used in this project are as follows--
 * Understanding the metric for evaluation was a challenge as well.
 * Since the data consisted of text data, data cleaning was a major challenge in features like Location etc..
 * Decision making on missing value imputations and outlier treatment was quite challenging as well.
+
+# FUTURE SCOPE:-
+* Given more information regarding the books dataset, namely features like Genre, Description etc., we could implement a content-filtering based recommendation system and compare the results with the existing collaborative-filtering based system.
+* We would like to explore various clustering approaches for clustering the users based on Age, Location etc., and then implement voting algorithms to recommend items to the user depending on the cluster into which it belongs.
+
+
+
+
+
+
+
+
+
