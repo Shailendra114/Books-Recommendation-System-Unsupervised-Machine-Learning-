@@ -85,6 +85,8 @@ The different tools that we have used in this project are as follows--
 ![image](https://github.com/KasumiL5x/book-recommendation-system/blob/master/screenshots/hhgttg.gif?raw=true)
 
 # Conclusions:-
+![image](https://user-images.githubusercontent.com/88799249/157094645-80569668-beff-4d2f-99d7-3e1cc6045fb5.png)
+
 *  In EDA, the Top-10 most rated books were essentially novels. Books like The Lovely Bone and The Secret Life of Bees were very well perceived.
 *  Majority of the readers were of the age bracket 20–35 and most of them came from North American and European countries namely USA, Canada, UK, Germany and Spain.
 *  If we look at the ratings distribution, most of the books have high ratings with maximum books being rated 8. Ratings below 5 are few in number.
