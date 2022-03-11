@@ -75,10 +75,11 @@ The different tools that we have used in this project are as follows--
 5. Plotly
 5. Matplotlib
 6. Sklearn
-7. Flask
-8. Pickle
-9. HTML
-10. Heroku
+7. KNN
+8. Flask
+9. Pickle
+10. HTML
+11. Heroku
 # Deployment:-
 
 ![image](https://github.com/KasumiL5x/book-recommendation-system/blob/master/screenshots/hhgttg.gif?raw=true)
